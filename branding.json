@@ -1,5 +1,5 @@
 {
-  "primaryColor": "#7F3E2C",
+  "primaryColor": "#7F4E2C",
   "secondaryColor": "#F1E3CD",
   "backgroundColor": "#FFF7EB",
   "textColor": "#392D26",
@@ -8,7 +8,7 @@
   "fontBody": "Source Sans 3",
   "borderRadius": "6px",
   "logoText": "Biblioteca Lino",
-  "tone": "minimal",
+  "tone": "elegant",
   "logoImageUrl": null,
   "brandbook": {
     "motif": "Pestaña de lectura en el margen de cada tarjeta, dentro de un carril con tres posiciones etiquetadas: pendiente, leyendo y leído. El margen de papel vincula resumen, colección y diálogo sin portadas simuladas ni estanterías ornamentales.",
