@@ -1,21 +1,17 @@
 {
   "version": 1,
   "positions": {
-    "bibliotecas": {
-      "x": 0,
-      "y": 0
-    },
-    "sesiones": {
-      "x": 620,
-      "y": 0
-    },
     "autores": {
       "x": 0,
       "y": 500
     },
+    "bibliotecas": {
+      "x": 0,
+      "y": 0
+    },
     "libros": {
-      "x": 620,
-      "y": 500
+      "x": 3055,
+      "y": 587.5
     },
     "marcador_semilla": {
       "x": 0,
@@ -24,11 +20,15 @@
     "operaciones_idempotentes": {
       "x": 620,
       "y": 1240
+    },
+    "sesiones": {
+      "x": 620,
+      "y": 0
     }
   },
   "viewport": {
-    "x": 40,
-    "y": 40,
-    "zoom": 0.4
+    "x": 73.79941095566551,
+    "y": 47.98057427421696,
+    "zoom": 0.3895336730829942
   }
 }
