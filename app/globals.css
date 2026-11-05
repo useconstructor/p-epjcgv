@@ -1425,7 +1425,7 @@
 :root {
   --brand-background: #FFF7EB !important;
   --brand-surface: #F1E3CD !important;
-  --brand-primary: #7F3E2C !important;
+  --brand-primary: #7F4E2C !important;
   --brand-accent: #8D4B31 !important;
   --brand-text: #392D26 !important;
   --brand-font-heading: "Source Serif 4", sans-serif !important;
@@ -1442,7 +1442,7 @@
   --popover: oklch(0.9791 0.0180 78.24);
   --foreground: oklch(0.3083 0.0215 51.89);
   --card-foreground: oklch(0.3083 0.0215 51.89);
-  --primary: oklch(0.4434 0.0948 36.41);
+  --primary: oklch(0.4728 0.0819 54.09);
   --accent: oklch(0.4875 0.0974 41.75);
   --radius: 6px;
 }
