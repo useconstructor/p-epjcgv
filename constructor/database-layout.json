@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "positions": {
+    "bibliotecas": {
+      "x": 0,
+      "y": 0
+    },
+    "sesiones": {
+      "x": 620,
+      "y": 0
+    },
+    "autores": {
+      "x": 0,
+      "y": 500
+    },
+    "libros": {
+      "x": 620,
+      "y": 500
+    },
+    "marcador_semilla": {
+      "x": 0,
+      "y": 1240
+    },
+    "operaciones_idempotentes": {
+      "x": 620,
+      "y": 1240
+    }
+  },
+  "viewport": {
+    "x": 40,
+    "y": 40,
+    "zoom": 0.4
+  }
+}
