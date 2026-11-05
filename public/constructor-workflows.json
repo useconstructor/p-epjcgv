@@ -1,1 +1,37 @@
-{"version":1,"workflows":[{"id":"abrir_biblioteca","name":"Abrir biblioteca","description":"Inicializa o recupera la biblioteca privada del navegador.","endpoint":"/api/sesion","method":"POST","input":{}},{"id":"ver_resumen","name":"Ver resumen","description":"Consulta las métricas y lecturas de la biblioteca actual.","endpoint":"/api/resumen","method":"GET","input":{}},{"id":"ver_libros","name":"Ver libros","description":"Consulta la colección privada.","endpoint":"/api/libros","method":"GET","input":{}},{"id":"ver_autores","name":"Ver autores","description":"Consulta los autores disponibles de esta biblioteca.","endpoint":"/api/autores","method":"GET","input":{}}]}
+{
+  "version": 1,
+  "workflows": [
+    {
+      "id": "abrir_biblioteca",
+      "name": "Abrir biblioteca",
+      "description": "Inicializa o recupera la biblioteca privada del navegador.",
+      "endpoint": "/api/sesion",
+      "method": "POST",
+      "input": {}
+    },
+    {
+      "id": "ver_resumen",
+      "name": "Consultar lecturas de Lino",
+      "description": "Consulta el total de libros, los estados de lectura y las valoraciones de la biblioteca actual.",
+      "endpoint": "/api/resumen",
+      "method": "GET",
+      "input": {}
+    },
+    {
+      "id": "ver_libros",
+      "name": "Ver libros",
+      "description": "Consulta la colección privada.",
+      "endpoint": "/api/libros",
+      "method": "GET",
+      "input": {}
+    },
+    {
+      "id": "ver_autores",
+      "name": "Ver autores",
+      "description": "Consulta los autores disponibles de esta biblioteca.",
+      "endpoint": "/api/autores",
+      "method": "GET",
+      "input": {}
+    }
+  ]
+}
