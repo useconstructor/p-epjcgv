@@ -1,7 +1,15 @@
 {
-  "tone": "minimal",
+  "primaryColor": "#7F3E2C",
+  "secondaryColor": "#F1E3CD",
+  "backgroundColor": "#FFF7EB",
+  "textColor": "#392D26",
+  "accentColor": "#8D4B31",
+  "fontHeading": "Source Serif 4",
   "fontBody": "Source Sans 3",
+  "borderRadius": "6px",
   "logoText": "Biblioteca Lino",
+  "tone": "minimal",
+  "logoImageUrl": null,
   "brandbook": {
     "motif": "Pestaña de lectura en el margen de cada tarjeta, dentro de un carril con tres posiciones etiquetadas: pendiente, leyendo y leído. El margen de papel vincula resumen, colección y diálogo sin portadas simuladas ni estanterías ornamentales.",
     "pages": [
@@ -998,13 +1006,5 @@
     "positioning": "Biblioteca personal ficticia para organizar lecturas y recordar valoraciones en un cuaderno digital sencillo, sin cuentas ni distracciones comerciales.",
     "researchStatus": "not_requested",
     "tokenSemanticsVersion": 1
-  },
-  "textColor": "#332B27",
-  "accentColor": "#98472F",
-  "fontHeading": "Source Serif 4",
-  "borderRadius": "0.25rem",
-  "logoImageUrl": null,
-  "primaryColor": "#98472F",
-  "secondaryColor": "#FFFCF7",
-  "backgroundColor": "#F7F1E7"
+  }
 }
