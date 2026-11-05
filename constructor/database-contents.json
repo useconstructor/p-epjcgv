@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "tables": {
+    "libros": {
+      "columns": [
+        "titulo",
+        "estado",
+        "valoracion",
+        "autor_id",
+        "id",
+        "biblioteca_id",
+        "titulo_busqueda",
+        "creado_en",
+        "actualizado_en",
+        "revision"
+      ],
+      "hidden": [
+        "id",
+        "biblioteca_id",
+        "titulo_busqueda",
+        "creado_en",
+        "actualizado_en",
+        "revision"
+      ],
+      "pageSize": 25
+    },
+    "autores": {
+      "columns": [
+        "nombre",
+        "id",
+        "biblioteca_id"
+      ],
+      "hidden": [
+        "id",
+        "biblioteca_id"
+      ],
+      "pageSize": 25
+    }
+  }
+}
