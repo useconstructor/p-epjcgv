@@ -1,1 +1,52 @@
-{"version":1,"edits":[]}
+{
+  "version": 1,
+  "edits": [
+    {
+      "path": "/",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "styles": {
+        "backgroundColor": "#F1E3CD",
+        "padding": "24px",
+        "borderRadius": "12px"
+      },
+      "responsiveStyles": {
+        "mobile": {
+          "padding": "16px"
+        }
+      }
+    },
+    {
+      "path": "/libros",
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1)",
+      "styles": {
+        "backgroundColor": "#F1E3CD"
+      }
+    },
+    {
+      "path": "/libros",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1)",
+      "styles": {
+        "backgroundColor": "#FFF7EB",
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderColor": "#D8C6B0",
+        "borderRadius": "6px",
+        "padding": "24px"
+      },
+      "responsiveStyles": {
+        "mobile": {
+          "padding": "16px"
+        }
+      }
+    },
+    {
+      "path": "/",
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "text": "Consultar lecturas",
+      "action": {
+        "type": "workflow",
+        "target": "ver_resumen"
+      }
+    }
+  ]
+}

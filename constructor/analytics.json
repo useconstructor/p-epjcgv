@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "days": "30",
+  "metric": "visitors",
+  "breakdowns": [
+    "device",
+    "path",
+    "operating_system",
+    "event_name"
+  ]
+}

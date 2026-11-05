@@ -1412,3 +1412,44 @@
     transition: none !important;
   }
 }
+
+/* __branding-overrides-start__ */
+@font-face { font-family:"Source Serif 4"; src:url("https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqrhw.ttf"); font-weight:400; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Serif 4"; src:url("https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiiVqrhw.ttf"); font-weight:500; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Serif 4"; src:url("https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjisltrhw.ttf"); font-weight:600; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Serif 4"; src:url("https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjivBtrhw.ttf"); font-weight:700; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Sans 3"; src:url("https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf"); font-weight:400; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Sans 3"; src:url("https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf"); font-weight:500; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Sans 3"; src:url("https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf"); font-weight:600; font-style:normal; font-display:swap; }
+@font-face { font-family:"Source Sans 3"; src:url("https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf"); font-weight:700; font-style:normal; font-display:swap; }
+:root {
+  --brand-background: #FFF7EB !important;
+  --brand-surface: #F1E3CD !important;
+  --brand-primary: #7F3E2C !important;
+  --brand-accent: #8D4B31 !important;
+  --brand-text: #392D26 !important;
+  --brand-font-heading: "Source Serif 4", sans-serif !important;
+  --brand-font-body: "Source Sans 3", sans-serif !important;
+  --color-background: oklch(0.9791 0.0180 78.24);
+  --color-foreground: oklch(0.3083 0.0215 51.89);
+  --color-primary-foreground: oklch(0.3083 0.0215 51.89);
+  --color-muted-foreground: oklch(0.3083 0.0215 51.89);
+  --color-accent-foreground: oklch(0.3083 0.0215 51.89);
+  --color-destructive-foreground: oklch(0.3083 0.0215 51.89);
+  --brand-radius: 6px !important;
+  --background: oklch(0.9791 0.0180 78.24);
+  --card: oklch(0.9791 0.0180 78.24);
+  --popover: oklch(0.9791 0.0180 78.24);
+  --foreground: oklch(0.3083 0.0215 51.89);
+  --card-foreground: oklch(0.3083 0.0215 51.89);
+  --primary: oklch(0.4434 0.0948 36.41);
+  --accent: oklch(0.4875 0.0974 41.75);
+  --radius: 6px;
+}
+h1, h2, h3, h4, h5, h6 { font-family: var(--brand-font-heading) !important; }
+body {
+  background: #FFF7EB !important;
+  color: #392D26 !important;
+  font-family: var(--brand-font-body) !important;
+}
+/* __branding-overrides-end__ */
