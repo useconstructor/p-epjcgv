@@ -1,0 +1,1010 @@
+{
+  "tone": "minimal",
+  "fontBody": "Source Sans 3",
+  "logoText": "Biblioteca Lino",
+  "brandbook": {
+    "motif": "Pestaña de lectura en el margen de cada tarjeta, dentro de un carril con tres posiciones etiquetadas: pendiente, leyendo y leído. El margen de papel vincula resumen, colección y diálogo sin portadas simuladas ni estanterías ornamentales.",
+    "pages": [
+      {
+        "id": "brand-page-1",
+        "title": "Brand guidelines",
+        "layout": "cover",
+        "summary": "Biblioteca personal ficticia para organizar lecturas y recordar valoraciones en un cuaderno digital sencillo, sin cuentas ni distracciones comerciales.",
+        "examples": [
+          {
+            "text": "Un cuaderno para tus lecturas.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Use #332B27 behind cream text. Place the unchanged symbol on a #F7F1E7 support surface.",
+            "title": "Cover composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-2",
+        "title": "The Brand",
+        "layout": "divider",
+        "summary": "Introduce the identity with a quiet chapter divider. A terracotta field and one serif heading establish warmth without a promotional hero.",
+        "examples": [
+          {
+            "text": "Lecturas, notas de estado y valoraciones en un mismo cuaderno.",
+            "title": "Entre tus páginas"
+          },
+          {
+            "text": "Set the heading in #FFFCF7 on #98472F. Leave decorative book covers and inventory graphics out.",
+            "title": "Divider treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-3",
+        "title": "Welcome",
+        "layout": "content",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "The plan supplies the name, palette, type families and reading-tab motif. This guide adds original book geometry and practical composition rules.",
+            "title": "Scope"
+          },
+          {
+            "text": "Guidance is in English; product copy stays in Spanish. Show “Biblioteca ficticia con lecturas de ejemplo.” once per app page.",
+            "title": "Language"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-4",
+        "title": "Index",
+        "layout": "content",
+        "summary": "Read the guide from identity foundations to working applications. Page numbers refer to this manual, not additional routes in the app.",
+        "examples": [
+          {
+            "text": "Cover, brand foundations, voice and the Biblioteca Lino logo system.",
+            "title": "01–15 · Identity"
+          },
+          {
+            "text": "Typography, layouts, color, reading tabs, icons and image-free art direction.",
+            "title": "16–29 · Visual language"
+          },
+          {
+            "text": "Design studies for digital and printed expressions, followed by support language and the colophon.",
+            "title": "30–49 · Applications"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-5",
+        "title": "Defining",
+        "layout": "content",
+        "summary": "Use the reading notebook as the organizing idea. Prioritize full titles, authors and reading progress over stock counts, shelf decoration or SaaS-style promotion.",
+        "examples": [
+          {
+            "text": "A stable header leads into a typographic summary, active readings and a quieter list of finished books.",
+            "title": "Tu cuaderno de lectura"
+          },
+          {
+            "text": "Title and action share an edge. Search and status controls precede bibliographic cards with a reserved side margin.",
+            "title": "Tu colección"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-6",
+        "title": "Project purpose",
+        "layout": "content",
+        "summary": "Describe the agreed product purpose, not an invented corporate mission. Keep the identity centered on organizing a fictional personal library and remembering ratings.",
+        "examples": [
+          {
+            "text": "Biblioteca Lino es un cuaderno digital para organizar tus lecturas y recordar tus valoraciones.",
+            "title": "Purpose statement"
+          },
+          {
+            "text": "Resumen y colección, sin cuentas ni distracciones comerciales.",
+            "title": "Scope statement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-7",
+        "title": "Design principles",
+        "layout": "content",
+        "summary": "Treat warmth, clarity and honest feedback as project design principles, not corporate values. Express them through readable paper layouts and confirmed state changes.",
+        "examples": [
+          {
+            "text": "Pair “Entre tus páginas” with cream space and a serif heading, not a decorative shelf illustration.",
+            "title": "Warmth"
+          },
+          {
+            "text": "Use “Guardar libro” and “Cancelar” rather than vague actions such as “Continuar”.",
+            "title": "Clarity"
+          },
+          {
+            "text": "Show “Guardando” during a request. Reserve “Libro guardado” and olive accents for server-confirmed results.",
+            "title": "Honesty"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-8",
+        "title": "Tone of Voice",
+        "layout": "content",
+        "summary": "Write calm, direct Spanish. Name the action or problem, then offer a useful next step. Avoid technical jargon, recommendations and exaggerated reassurance.",
+        "examples": [
+          {
+            "text": "Todavía no tienes libros. Añade el primero para empezar tu cuaderno.",
+            "title": "Empty state"
+          },
+          {
+            "text": "No podemos confirmar el cambio. Usa Recuperar cambio para consultar el resultado del mismo intento.",
+            "title": "Uncertain result"
+          },
+          {
+            "text": "Escribe un título de entre 1 y 200 caracteres.",
+            "title": "Validation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-9",
+        "title": "Logo",
+        "layout": "divider",
+        "summary": "Open the logo chapter on Quiet Ivory. Present the open book and bookmark without extra emblems; the name is always separate, live typography.",
+        "examples": [
+          {
+            "text": "The open book introduces the notebook idea; the terracotta bookmark connects it to the reading-tab interaction.",
+            "title": "Biblioteca Lino"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-10",
+        "title": "Logo overview",
+        "layout": "logo",
+        "summary": "The symbol uses two balanced pages, an ink fold and one terracotta bookmark. Keep this single geometry across the header, browser icon and application icons.",
+        "examples": [
+          {
+            "text": "Place the symbol to the left of Biblioteca Lino, aligned to the optical center of the name.",
+            "title": "Full signature"
+          },
+          {
+            "text": "Use the book alone for compact identity slots. Do not replace it with BL, a stock book icon or a simulated cover.",
+            "title": "Symbol-only use"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-11",
+        "title": "Primary logo",
+        "layout": "logo",
+        "summary": "Set Biblioteca Lino in Source Serif 4, weight 600, natural case and slightly tight tracking. Use the horizontal lockup as the default header signature.",
+        "examples": [
+          {
+            "text": "Start with a 32 px symbol, 24 px name and 8 px gap. Keep the complete business name on one line.",
+            "title": "Header lockup"
+          },
+          {
+            "text": "Reduce adjacent navigation spacing before reducing the name. Preserve the logo proportions and 44 px navigation targets.",
+            "title": "Narrow layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-12",
+        "title": "Logo Safezone",
+        "layout": "logo",
+        "summary": "Use one tenth of the symbol canvas as the minimum clear space around the lockup. Measure from its outer bounds; navigation, rules and controls stay outside this zone.",
+        "examples": [
+          {
+            "text": "For a 40 px symbol canvas, keep at least 4 px clear around the full lockup and 16 px before Resumen.",
+            "title": "Header spacing"
+          },
+          {
+            "text": "For a 20 mm symbol canvas, reserve at least 2 mm around Biblioteca Lino. Use more space on covers.",
+            "title": "Print spacing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-13",
+        "title": "Color combinations",
+        "layout": "colors",
+        "summary": "Preserve the symbol’s ink, ivory and terracotta fills. On colored fields, add a Warm Paper support surface so the complete geometry remains visible.",
+        "examples": [
+          {
+            "text": "Use the original symbol and #332B27 name directly on #F7F1E7.",
+            "title": "Paper header"
+          },
+          {
+            "text": "Use a #F7F1E7 support surface for the symbol and #FFFCF7 for the separately typeset name.",
+            "title": "Ink cover"
+          },
+          {
+            "text": "Keep the mark on paper support. Set Biblioteca Lino in ivory; never recolor the bookmark to make it disappear.",
+            "title": "Terracotta divider"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-14",
+        "title": "Brandmark",
+        "layout": "logo",
+        "summary": "Keep the open-book silhouette upright and square in its canvas. The bookmark is part of the mark, not a movable status tab or a loading indicator.",
+        "examples": [
+          {
+            "text": "Center the original 160 × 160 geometry on a Warm Paper support field.",
+            "title": "Application icon"
+          },
+          {
+            "text": "Cards use the separate three-position margin tab. Do not repeat the full Biblioteca Lino symbol beside every title.",
+            "title": "Reading-card distinction"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-15",
+        "title": "Logo misuse",
+        "layout": "logo",
+        "summary": "Do not stretch, rotate, outline, crop or add shadows to the mark. Keep the name in real type and never merge it into the SVG geometry.",
+        "examples": [
+          {
+            "text": "Do not repeat the symbol as rows of tiny books behind “Tu colección”. The title and author remain the subject.",
+            "title": "Wrong: decorative shelf"
+          },
+          {
+            "text": "Do not replace the open book with an initial in a box or enclose the lockup in an invented certification seal.",
+            "title": "Wrong: generic badge"
+          },
+          {
+            "text": "Use Biblioteca Lino once in the shared header with the original book geometry and clear surrounding space.",
+            "title": "Correct: quiet signature"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-16",
+        "title": "Typography",
+        "layout": "divider",
+        "summary": "Introduce the type system through a reading phrase, not an alphabet chart. Serif carries identity; sans serif makes everyday interaction clear.",
+        "examples": [
+          {
+            "text": "Tus lecturas en curso, con su título, autor y valoración.",
+            "title": "Entre tus páginas"
+          },
+          {
+            "text": "Use a spacious serif heading above one short sans-serif line. Align both to the notebook’s left margin.",
+            "title": "Chapter composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-17",
+        "title": "Typography overview",
+        "layout": "type",
+        "summary": "Pair Source Serif 4 for the name and headings with Source Sans 3 for controls and functional text. Supplied distributable files cover the selected weights.",
+        "examples": [
+          {
+            "text": "Un lugar para volver a tus libros.",
+            "title": "Tu cuaderno de lectura"
+          },
+          {
+            "text": "Keep book titles in Source Serif 4. Set author names, labels, notices and buttons in Source Sans 3.",
+            "title": "Family roles"
+          },
+          {
+            "text": "If a font fails to load, use Georgia for serif and system sans-serif for controls. These are fallbacks, not identity fonts.",
+            "title": "Fallback behavior"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-18",
+        "title": "Primary typeface",
+        "layout": "type",
+        "summary": "Use Source Serif 4 to give titles literary presence without ornament. Preserve Spanish accents and full book titles; allow wrapping instead of ellipsis.",
+        "examples": [
+          {
+            "text": "Inés Valdara · Leyendo · Sin valorar",
+            "title": "La casa de las mareas quietas"
+          },
+          {
+            "text": "Use weight 500–600 with natural spacing and comfortable line height. Never condense a long title to force it onto one line.",
+            "title": "Title setting"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-19",
+        "title": "Weights & styles",
+        "layout": "type",
+        "summary": "Use serif 600 for the name and primary UI titles, 500 for secondary titles, and sans 400 for body copy. Manual display headings may use the supplied 700 rendering weight.",
+        "examples": [
+          {
+            "text": "Un invierno de papel · Inés Valdara · Valoración: 4 de 5",
+            "title": "Lecturas terminadas"
+          },
+          {
+            "text": "Set Guardar libro in Source Sans 3, 600. Use 400 for help text and 500–600 for concise labels; avoid synthetic bold.",
+            "title": "Functional emphasis"
+          },
+          {
+            "text": "Use upright text for titles and controls. No italic style is assigned; do not simulate italic files or introduce all-caps navigation.",
+            "title": "Style restraint"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-20",
+        "title": "Supporting type",
+        "layout": "type",
+        "summary": "Source Sans 3 supports scanning and form completion. Keep body text and inputs at 16 px; navigation and metadata may use 14 px with sufficient contrast.",
+        "examples": [
+          {
+            "text": "Escribe parte del título para encontrar un libro.",
+            "title": "Buscar por título"
+          },
+          {
+            "text": "Retain accents in “Valoración” and “Leído”. Display the initial average as 4,5, not 4.5.",
+            "title": "Spanish details"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-21",
+        "title": "Hierarchy",
+        "layout": "type",
+        "summary": "Use 40 px page titles on desktop and 32 px on mobile. Keep book titles below page-title scale; distinguish sections through size and spacing rather than heavy boxes.",
+        "examples": [
+          {
+            "text": "6 libros · Todos los estados",
+            "title": "Tu colección"
+          },
+          {
+            "text": "Page title → section heading → full book title → author → controls. Use 24 px card titles with 16 px functional text.",
+            "title": "Reading order"
+          },
+          {
+            "text": "Set metric values prominently, with 14 px labels beneath or alongside. Keep Total, Pendientes, Leyendo and Leídos on one shared rhythm.",
+            "title": "Summary strip"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-22",
+        "title": "Layouts",
+        "layout": "applications",
+        "summary": "Use continuous paper, aligned margins and the 4/8/12/16/24/32/48 px spacing scale. Collection cards form three, two and one columns at 1440, 768 and 390 px.",
+        "examples": [
+          {
+            "text": "Busca un título o elige un estado para recorrer tus libros.",
+            "title": "Tu colección"
+          },
+          {
+            "text": "At 390 × 640, allow up to 96 px for header, 72 px for title/action and 148 px for controls, so a card begins in the first viewport.",
+            "title": "Small-screen budget"
+          },
+          {
+            "text": "Keep Título and Autor full width before Estado and Valoración. Use ordinary panel scrolling; never overlay actions on fields.",
+            "title": "Dialog rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-23",
+        "title": "Colors",
+        "layout": "divider",
+        "summary": "Introduce color as paper, ink and a purposeful terracotta action. Keep the palette warm and restrained rather than assigning a bright color to every metric.",
+        "examples": [
+          {
+            "text": "Tu cuaderno de lectura sits on Warm Paper #F7F1E7, with Reading Ink #332B27 doing most of the visual work.",
+            "title": "Paper first"
+          },
+          {
+            "text": "Reserve Terracotta #98472F for Añadir libro, Guardar libro and selected visual emphasis.",
+            "title": "Action accent"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-24",
+        "title": "Colors overview",
+        "layout": "colors",
+        "summary": "Keep every supplied hex unchanged and centrally configurable. Quiet Ivory separates cards from paper; Soft Clay supports metadata. Olive is an additional success-only token.",
+        "examples": [
+          {
+            "text": "Warm Paper #F7F1E7 · Quiet Ivory #FFFCF7 · Reading Ink #332B27.",
+            "title": "Base roles"
+          },
+          {
+            "text": "Terracotta #98472F · Soft Clay #806B60. Use ink for small text on darkened surfaces; never lower text opacity.",
+            "title": "Action and secondary text"
+          },
+          {
+            "text": "#486343 is the sixth configurable token. Pair it with “Libro guardado” only after confirmation, never with warnings or loading.",
+            "title": "Confirmed Olive"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-25",
+        "title": "Using Tints",
+        "layout": "colors",
+        "summary": "Use light tinting only for nonessential hover or selected-area washes. Keep text, focus and control boundaries in solid tokens; do not tint the logo or imply unconfirmed success.",
+        "examples": [
+          {
+            "text": "A subtle terracotta wash may sit over Quiet Ivory; La casa de las mareas quietas remains solid Reading Ink.",
+            "title": "Card hover"
+          },
+          {
+            "text": "Use solid terracotta for the Guardar libro boundary and focus treatment. Controls and focus need 3:1 contrast; text must meet WCAG AA.",
+            "title": "Control contrast"
+          },
+          {
+            "text": "Set “Sin valorar” in Soft Clay on paper or ivory. Avoid pale opacity treatments that make meaningful metadata disappear.",
+            "title": "Muted is not disabled"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-26",
+        "title": "Graphic Elements",
+        "layout": "divider",
+        "summary": "The signature device is a tab in a reserved side rail with three labeled positions. It reflects confirmed status and never competes with the title or compresses controls.",
+        "examples": [
+          {
+            "text": "Pendiente · Leyendo · Leído. Label each rail position once; do not add another status banner above the card.",
+            "title": "Three positions"
+          },
+          {
+            "text": "Show “Guardando” while the tab stays neutral at its previous confirmed position. Errors and conflicts do not move it.",
+            "title": "Pending change"
+          },
+          {
+            "text": "After confirmation, move the tab briefly to its destination. With reduced motion, switch position immediately and retain the text announcement.",
+            "title": "Confirmed movement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-27",
+        "title": "Icons",
+        "layout": "content",
+        "summary": "Use simple functional icons with consistent optical size. Pair ambiguous symbols with visible Spanish labels; warnings need their own icon and text, never a success check.",
+        "examples": [
+          {
+            "text": "Pair a small pencil with “Editar”. Keep Editar and Eliminar on the card’s lower edge with 44 px targets.",
+            "title": "Edit action"
+          },
+          {
+            "text": "A search icon supports the visible label “Buscar por título”; it does not replace that label.",
+            "title": "Search field"
+          },
+          {
+            "text": "Use a warning symbol beside “No podemos confirmar el cambio”. Reserve an olive check for “Libro guardado”.",
+            "title": "Feedback"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-28",
+        "title": "Image-free direction",
+        "layout": "applications",
+        "summary": "Replace photography with bibliographic composition. Do not use generated imagery, videos, simulated covers or decorative crops; the title and author provide the visual subject.",
+        "examples": [
+          {
+            "text": "Los mapas del silencio — Clara Neral. Let the complete title wrap on ivory, with a reading tab in the margin.",
+            "title": "Book specimen"
+          },
+          {
+            "text": "Entre tus páginas needs active reading titles, not an image of a desk or an invented recommendation carousel.",
+            "title": "Section specimen"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-29",
+        "title": "Moodboard",
+        "layout": "applications",
+        "summary": "Build the reference board from flat paper color, serif rhythm, ink rules and a terracotta bookmark. Suggest a notebook through structure, not distressed textures or ornament.",
+        "examples": [
+          {
+            "text": "#F7F1E7 field, #FFFCF7 inset and a fine ink rule frame “Donde descansan las semillas”.",
+            "title": "Material impression"
+          },
+          {
+            "text": "Pair a large “Tu cuaderno de lectura” with a compact author line and ample margin.",
+            "title": "Editorial rhythm"
+          },
+          {
+            "text": "No warehouse statistics, ornate bookshelves, faux leather, stock photography or SaaS hero gradients.",
+            "title": "Exclude"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-30",
+        "title": "Applications",
+        "layout": "divider",
+        "summary": "Treat the following applications as design studies. Translate the same margin, type hierarchy and book symbol across formats without adding routes, commerce or services.",
+        "examples": [
+          {
+            "text": "Un cuaderno para tus lecturas.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Caption each presentation “Design study” outside the artwork. Keep that caption separate from Spanish brand-facing copy.",
+            "title": "Study labeling"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-31",
+        "title": "Social media icons",
+        "layout": "logo",
+        "summary": "Design study: use the unchanged book symbol for a compact avatar. Center it on Warm Paper with generous crop safety; do not add tiny wordmark text.",
+        "examples": [
+          {
+            "text": "Tu cuaderno de lectura.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Keep the full square symbol canvas inside the central 70% of a circular crop. Preserve the terracotta bookmark.",
+            "title": "Avatar crop"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-32",
+        "title": "Social media profiles",
+        "layout": "applications",
+        "summary": "Design study: pair the book avatar with the exact business name and a factual fictional-project description. Do not invent handles, locations, follower counts or live profiles.",
+        "examples": [
+          {
+            "text": "Biblioteca personal ficticia. Un cuaderno digital para organizar lecturas y recordar valoraciones.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Use a paper header with a single serif phrase. Avoid promotional badges, membership language and unsupported availability claims.",
+            "title": "Profile composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-33",
+        "title": "Instagram posts",
+        "layout": "applications",
+        "summary": "Design study: build typographic posts from the supplied fictional books. Use one title, one author and ample margin; do not imply recommendations, reviews or publication campaigns.",
+        "examples": [
+          {
+            "text": "Mateo Brisal · Lectura ficticia de ejemplo.",
+            "title": "Cartas desde el huerto azul"
+          },
+          {
+            "text": "Clara Neral · Un título de la colección de ejemplo de Biblioteca Lino.",
+            "title": "Los mapas del silencio"
+          },
+          {
+            "text": "Keep a 48 px safe margin on a 1080 px square. Use the terracotta tab once, with the brand signature at the foot.",
+            "title": "Square composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-34",
+        "title": "Posters",
+        "layout": "applications",
+        "summary": "Design study: make a reading phrase the focal point, with Biblioteca Lino as a quiet signature. Use no event dates, addresses, prices or unplanned calls to action.",
+        "examples": [
+          {
+            "text": "Biblioteca Lino · Un cuaderno para tus lecturas.",
+            "title": "Entre tus páginas"
+          },
+          {
+            "text": "Use a paper field, an ink serif headline and one terracotta margin tab. Keep the signature smaller than the message.",
+            "title": "Poster hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-35",
+        "title": "T shirts and totes",
+        "layout": "applications",
+        "summary": "Design study: use restrained placement and flat palette colors. These are identity mockups, not merchandise offers; preserve the original multicolor mark on paper-colored support.",
+        "examples": [
+          {
+            "text": "Biblioteca Lino",
+            "title": "Una lectura entre manos"
+          },
+          {
+            "text": "Center the phrase on a cream tote and place the small lockup below. Leave the reverse empty rather than inventing a shop URL.",
+            "title": "Placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-36",
+        "title": "Notebook sleeves",
+        "layout": "applications",
+        "summary": "Design study: translate packaging into a simple paper sleeve for a reading notebook. Keep it editorial, with no product codes, sales claims or fulfillment language.",
+        "examples": [
+          {
+            "text": "Biblioteca Lino · Títulos, autores y valoraciones.",
+            "title": "Tu cuaderno de lectura"
+          },
+          {
+            "text": "Use Warm Paper with a narrow terracotta edge. Keep the complete logo away from folds and leave a clear ivory writing area.",
+            "title": "Sleeve composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-37",
+        "title": "Collection entry",
+        "layout": "applications",
+        "summary": "Design study: replace pickup wayfinding with clear entry into the two-route app. The shared header leads to the summary, collection and create dialog, not a physical location.",
+        "examples": [
+          {
+            "text": "Busca por título o filtra por estado.",
+            "title": "Tu colección"
+          },
+          {
+            "text": "Biblioteca Lino and Resumen link to /. Libros links to /libros. Añadir libro opens /libros?accion=crear.",
+            "title": "Navigation mapping"
+          },
+          {
+            "text": "Keep Resumen, Libros and Añadir libro reachable by keyboard and touch. Preserve 44 px targets within the compact header.",
+            "title": "Mobile header"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-38",
+        "title": "Library controls",
+        "layout": "applications",
+        "summary": "Design study: distinguish the terracotta primary action from quiet secondary controls. Keep labels visible, preserve entered values and show validation only with actionable explanations.",
+        "examples": [
+          {
+            "text": "Completa Título, Autor, Estado y, si quieres, Valoración.",
+            "title": "Guardar libro"
+          },
+          {
+            "text": "Use existing authors, a 1–200 character title, a valid status and an optional integer rating from 1 to 5, independent of status.",
+            "title": "Form rules"
+          },
+          {
+            "text": "Keep Guardar libro activable until a request begins. On invalid submission, retain values, link the error summary and focus the first invalid field.",
+            "title": "Validation behavior"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-39",
+        "title": "Save confirmation",
+        "layout": "applications",
+        "summary": "Design study: replace a receipt with a local confirmation beside the affected book. Show success only after server confirmation; never add a third page or redundant review step.",
+        "examples": [
+          {
+            "text": "La casa de las mareas quietas se ha actualizado.",
+            "title": "Libro guardado"
+          },
+          {
+            "text": "La casa de las mareas quietas está en Leído. Mostrar libro.",
+            "title": "El libro ya no aparece con este filtro"
+          },
+          {
+            "text": "Use Confirmed Olive with the local message and an accessible announcement. Offer Mostrar libro when the confirmed record falls outside the filter.",
+            "title": "Feedback placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-40",
+        "title": "Reading record",
+        "layout": "applications",
+        "summary": "Design study: replace rewards with a private reading record. Show status and optional rating without points, streaks, memberships or incentives.",
+        "examples": [
+          {
+            "text": "Mateo Brisal · Leído · Valoración: 5 de 5",
+            "title": "El reloj de los domingos"
+          },
+          {
+            "text": "Place title first, author second and state beside its tab. Use “Sin valorar” for a missing rating, never an invented zero.",
+            "title": "Record composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-41",
+        "title": "Library nameplate",
+        "layout": "applications",
+        "summary": "Design study: use a nameplate as a scale study of the identity, not evidence of a physical venue. Keep one lockup with no address, opening hours or service claims.",
+        "examples": [
+          {
+            "text": "Cuaderno de lectura",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Use an ivory panel with ink typography and the original symbol. Keep clear space generous and omit ornamental shelf borders.",
+            "title": "Large-format treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-42",
+        "title": "Library website",
+        "layout": "applications",
+        "summary": "Design study: show exactly / and /libros. Use Turso-backed readings and metrics; if data is unavailable, show recovery rather than a local-storage or mock-data substitute.",
+        "examples": [
+          {
+            "text": "6 libros · 2 pendientes · 2 leyendo · 2 leídos · Valoración media: 4,5",
+            "title": "Tu cuaderno de lectura"
+          },
+          {
+            "text": "Use those figures only for the initial confirmed sample. Lead with Entre tus páginas, then a compact finished list; never hard-code live metrics.",
+            "title": "Summary composition"
+          },
+          {
+            "text": "Keep search and status in the URL. Use /libros?estado=leyendo for active books; highlight individual records in the collection, without detail routes.",
+            "title": "Collection behavior"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-43",
+        "title": "Favicon",
+        "layout": "logo",
+        "summary": "Design study: use the same original geometry for the favicon, app/icon.svg and manifest icons. A paper support field protects visibility; never substitute a template icon.",
+        "examples": [
+          {
+            "text": "Tu cuaderno de lectura",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Keep the complete book and bookmark centered in the square canvas. No wordmark, extra border, initials or separate simplified drawing.",
+            "title": "Small-scale composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-44",
+        "title": "Stationery",
+        "layout": "applications",
+        "summary": "Design study: apply the notebook margin to a simple reading sheet. Use a small signature, one serif heading and quiet sans-serif prompts, without implying export functionality.",
+        "examples": [
+          {
+            "text": "Título · Autor · Estado · Valoración",
+            "title": "Notas de lectura"
+          },
+          {
+            "text": "Leave the lower two thirds open. Use ink rules sparingly and place a single terracotta tab in the outer margin.",
+            "title": "Writing space"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-45",
+        "title": "Project cards",
+        "layout": "applications",
+        "summary": "Design study: adapt business cards into project introduction cards. Keep the exact name and a concise descriptor; do not invent staff, phone numbers, email addresses or domains.",
+        "examples": [
+          {
+            "text": "Biblioteca personal ficticia · Un cuaderno digital para tus lecturas.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Front: centered lockup on paper. Back: left-aligned descriptor on ivory with one terracotta rule and generous clear space.",
+            "title": "Two-sided composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-46",
+        "title": "Reading note card",
+        "layout": "applications",
+        "summary": "Design study: replace a gift card with a noncommercial reading note. Do not add amounts, redemption codes or gifting controls; this format explores the editorial identity only.",
+        "examples": [
+          {
+            "text": "Título: Un invierno de papel · Autor: Inés Valdara",
+            "title": "Una página para recordar"
+          },
+          {
+            "text": "Place the heading above a large blank writing area. Keep Biblioteca Lino small at the foot and use terracotta only at the margin.",
+            "title": "Card composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-47",
+        "title": "Notebook seal",
+        "layout": "applications",
+        "summary": "Design study: use a paper-colored seal as an identity detail on the notebook sleeve. It is not a certification, ownership guarantee or interactive product feature.",
+        "examples": [
+          {
+            "text": "Entre tus páginas.",
+            "title": "Biblioteca Lino"
+          },
+          {
+            "text": "Center the unchanged symbol with clear space. Keep the name separately typeset nearby; do not curve tiny text around the book or add badge claims.",
+            "title": "Seal treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-48",
+        "title": "In-app support",
+        "layout": "applications",
+        "summary": "Design study: keep recovery beside the affected content or inside its dialog. Preserve drafts and confirmed data; uncertainty, conflicts and deletion need distinct messages and explicit actions.",
+        "examples": [
+          {
+            "text": "Recuperar cambio vuelve a consultar el mismo intento sin duplicarlo.",
+            "title": "No podemos confirmar el cambio"
+          },
+          {
+            "text": "Compara tu borrador con los datos actuales antes de guardar de nuevo. No se ha sustituido tu borrador.",
+            "title": "Este libro ha cambiado"
+          },
+          {
+            "text": "¿Eliminar La casa de las mareas quietas? Cancelar · Eliminar libro",
+            "title": "Eliminar libro"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-49",
+        "title": "Thank you",
+        "layout": "cover",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "Biblioteca Lino · Un cuaderno para tus lecturas.",
+            "title": "Vuelve a tus páginas"
+          },
+          {
+            "text": "Supplied Biblioteca Lino request, project plan, branding configuration and Source Serif 4 / Source Sans 3 font resources. No external research sources.",
+            "title": "Source list"
+          },
+          {
+            "text": "Keep the name, SVG geometry, palette roles, font families and Spanish UI copy together in the editable brand configuration.",
+            "title": "Identity stewardship"
+          }
+        ]
+      }
+    ],
+    "voice": "Tranquila, directa y cercana; íntegramente en español. Acciones concretas, errores explicativos y confirmaciones honestas. Una sola nota de biblioteca ficticia por página, sin recomendaciones inventadas ni lenguaje técnico en el flujo ordinario.",
+    "colors": [
+      {
+        "hex": "#F7F1E7",
+        "name": "Warm Paper",
+        "role": "background"
+      },
+      {
+        "hex": "#FFFCF7",
+        "name": "Quiet Ivory",
+        "role": "surface"
+      },
+      {
+        "hex": "#98472F",
+        "name": "Terracotta",
+        "role": "accent"
+      },
+      {
+        "hex": "#332B27",
+        "name": "Reading Ink",
+        "role": "text"
+      },
+      {
+        "hex": "#806B60",
+        "name": "Soft Clay",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><path fill=\"#332B27\" d=\"M16 30Q48 20 80 36Q112 20 144 30V126Q111 118 80 136Q49 118 16 126Z\"/><path fill=\"#FFFCF7\" d=\"M24 37Q49 31 76 43V124Q50 112 24 116Z\"/><path fill=\"#FFFCF7\" d=\"M84 43Q111 31 136 37V116Q110 112 84 124Z\"/><path fill=\"#98472F\" d=\"M106 33Q116 31 126 33V77L116 69L106 77Z\"/></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;500;600;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "400",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiiVqrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "500",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjisltrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "600",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjivBtrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "700",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf",
+        "family": "Source Sans 3",
+        "weight": "400",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf",
+        "family": "Source Sans 3",
+        "weight": "500",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf",
+        "family": "Source Sans 3",
+        "weight": "600",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf",
+        "family": "Source Sans 3",
+        "weight": "700",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      }
+    ],
+    "positioning": "Biblioteca personal ficticia para organizar lecturas y recordar valoraciones en un cuaderno digital sencillo, sin cuentas ni distracciones comerciales.",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#332B27",
+  "accentColor": "#98472F",
+  "fontHeading": "Source Serif 4",
+  "borderRadius": "0.25rem",
+  "logoImageUrl": null,
+  "primaryColor": "#98472F",
+  "secondaryColor": "#FFFCF7",
+  "backgroundColor": "#F7F1E7"
+}
